@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 I'm just a student.
+Greatness from small beginnings.
 :3
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYnimef&show_icons=true&theme=tokyonight)
