@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/MYnimef)
+
 ### Hello there 👋
 
 I'm just a student.
