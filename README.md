@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/MYnimef)
 
-<h1 align="center">Welcome, I'm Ivan<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Welcome, I'm Ivan<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
 I'm just a student.
 Greatness from small beginnings.
