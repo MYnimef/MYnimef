@@ -1,4 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/MYnimef)
+<img src="https://komarev.com/ghpvc/?username=MYnimef" height="32"/></h1>
 
 <h1 align="center">Welcome<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
