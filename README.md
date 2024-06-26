@@ -2,7 +2,6 @@
 
 <h1 align="center">Welcome<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
-I'm just a student.
 Greatness from small beginnings.
 
 <h3 align="left">Languages and Tools:</h3>
